@@ -167,3 +167,18 @@ Source MuServer Update 15/GameServer/.vs/GameServer/v16/Browse.VC.db-shm
 Source MuServer Update 15/GameServer/.vs/GameServer/v16/Browse.VC.db-wal
 Source MuServer Update 15/GameServer/.vs/GameServer/v16/Browse.VC.opendb
 Source MuServer Update 15/GameServer/.vs/GameServer/v16/.suo
+
+
+# buuug7
+
+MSSQL
+
+
+# DataServer
+
+Source MuServer Update 15/DataServer/Debug
+Source MuServer Update 15/DataServer/DataServer/Debug
+Source MuServer Update 15/DataServer/DataServer/LOG
+Source MuServer Update 15/DataServer/Release
+Source MuServer Update 15/DataServer/DataServer/Release
+Source MuServer Update 15/DataServer/.vs
