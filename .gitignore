@@ -174,7 +174,7 @@ Source MuServer Update 15/GameServer/.vs/GameServer/v16/.suo
 MSSQL
 
 
-# DataServer
+# Source DataServer
 
 Source MuServer Update 15/DataServer/Debug
 Source MuServer Update 15/DataServer/DataServer/Debug
@@ -182,3 +182,15 @@ Source MuServer Update 15/DataServer/DataServer/LOG
 Source MuServer Update 15/DataServer/Release
 Source MuServer Update 15/DataServer/DataServer/Release
 Source MuServer Update 15/DataServer/.vs
+
+
+# MuServe
+MuServer_Season_5_Update_15/ConnectServer/LOG
+MuServer_Season_5_Update_15/DataServer/LOG
+MuServer_Season_5_Update_15/GameServer/COMMAND_LOG
+MuServer_Season_5_Update_15/GameServer/CONNECT_LOG
+MuServer_Season_5_Update_15/GameServer/HACK_LOG
+MuServer_Season_5_Update_15/GameServer/LOG
+MuServer_Season_5_Update_15/JoinServer/LOG
+MuServer_Season_5_Update_15/StartUp/Logs
+
